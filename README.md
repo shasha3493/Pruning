@@ -1,1 +1,1 @@
-*A Self Explanatory Walkthrough for Model Pruning*
+**A Self Explanatory Walkthrough for Model Pruning**
